@@ -1,0 +1,5 @@
+name := "GraficaSueldos"
+version := "0.1"
+scalaVersion := "3.6.4"
+libraryDependencies += "org.knowm.xchart" % "xchart" % "3.8.1"
+libraryDependencies += "org.apache.poi" % "poi-ooxml" % "5.2.5"
